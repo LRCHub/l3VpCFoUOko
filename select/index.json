@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ヤババイナ",
+  "base_artist": "さたぱんP",
+  "createdAt": "2026-03-09T09:34:32.213982Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヤババイナ - YABABAINA",
+      "artist": "さたぱんP",
+      "has_synced": true,
+      "path": "select/01_ヤババイナ_-_YABABAINA_さたぱんP.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヤババイナ - YABABAINA",
+      "artist": "SatapanP",
+      "has_synced": true,
+      "path": "select/02_ヤババイナ_-_YABABAINA_SatapanP.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "[YABABAINA ヤババイナ] さたぱんP | Cover Español by LordM ft. ‪@LaLuki‬ ‪@ItsMilaSolis‬",
+      "artist": "LordM",
+      "has_synced": true,
+      "path": "select/03_[YABABAINA_ヤババイナ]_さたぱんP___Cover_Español_by_LordM_ft._‪@LaLuki‬_‪@ItsMilaSolis‬_LordM.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ヤババイナ - YABABAINA",
+      "artist": "さたぱんP",
+      "has_synced": true,
+      "path": "select/04_ヤババイナ_-_YABABAINA_さたぱんP.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "[YABABAINA ヤババイナ] さたぱんP | Cover Español by LordM ft. @LaLuki @ItsMilaSolis",
+      "artist": "LordM",
+      "has_synced": true,
+      "path": "select/05_[YABABAINA_ヤババイナ]_さたぱんP___Cover_Español_by_LordM_ft._@LaLuki_@ItsMilaSolis_LordM.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヤババイナ",
+      "artist": "さたぱんP",
+      "has_synced": false,
+      "path": "select/pl_01_ヤババイナ_さたぱんP.txt"
+    }
+  ]
+}
